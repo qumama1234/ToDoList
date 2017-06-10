@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Quarantine:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Quarantine-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Quarantine:war exploded" />
+    </root>
+  </artifact>
+</component>
